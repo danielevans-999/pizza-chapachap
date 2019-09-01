@@ -1,0 +1,11 @@
+.nav-wrapper{
+  background-color:khaki;
+}
+
+#one{
+  background-image: url(../Assets/pizza.png);
+  background-size: cover;
+  height: 500px;
+color:white;
+
+}
