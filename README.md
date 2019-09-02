@@ -8,7 +8,7 @@ Piza-mojo is a website where one can order pizza online
 
  # Behaviour Driven Development(BDD)
 
-  >**feature**:login, **input** click on get one **output** click order to order your pizza
+  >**feature**:login, **input** click on get one **output** click order to  your pizza
 
  
 
