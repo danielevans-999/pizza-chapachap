@@ -11,8 +11,6 @@ function Order(type, crust, price, toppings) {
   
   const myPrices = {
     large: 800,
-    medium: 600,
-    small: 300
   }
   
   var pizzaFlavour = ["Chicken"]
