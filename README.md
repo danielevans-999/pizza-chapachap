@@ -14,9 +14,9 @@ Piza-mojo is a website where one can order pizza online
 
 ## Installing 
 
-To view the website go to [click here](https://github.com/danielevans-999/Delani-studio-)
+To view the website go to [click here](https://github.com/danielevans-999/pizza-chapachap)
 
-- Step 1: Clone this repo :git clone (https://github.com/danielevans-999/Delani-studio-)
+- Step 1: Clone this repo :git clone (https://github.com/danielevans-999/pizza-chapachap)
 
 - step 2: Open the repo using your text editor e.g atom or code
 
