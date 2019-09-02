@@ -135,6 +135,12 @@ function Order(type, crust, price, toppings) {
         location.reload();
       })
 
+      $("#Email").submit(function() {
+        event.preventDefault();
+        alert("Gracious" + $("#names").val() + ". Email sent")
+    
+      })
+
    
       
       
